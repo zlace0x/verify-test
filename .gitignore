@@ -9,3 +9,6 @@ out/
 
 # Dotenv file
 .env
+
+deployments
+node_modules
